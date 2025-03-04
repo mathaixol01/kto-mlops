@@ -2,7 +2,7 @@ name: Cats and dogs CI/CD
 on:
   push:
     branches:
-      - mathieuaix
+      - mathaixol01
 
 jobs:
   train:
